@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|c:\\users\\karla\\source\\repos\\miparcialitoc\\miparcialitoc\\views\\parcial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|solutionrelative:miparcialitoc\\views\\parcial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|c:\\users\\karla\\source\\repos\\miparcialitoc\\miparcialitoc\\controllers\\parcialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|solutionrelative:miparcialitoc\\controllers\\parcialcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|c:\\users\\karla\\source\\repos\\miparcialitoc\\miparcialitoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|solutionrelative:miparcialitoc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|c:\\users\\karla\\source\\repos\\miparcialitoc\\miparcialitoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|solutionrelative:miparcialitoc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|c:\\users\\karla\\source\\repos\\miparcialitoc\\miparcialitoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F981DD41-1D64-43E4-AC17-EF555FF82D76}|MiParcialitoC\\MiParcialitoC.csproj|solutionrelative:miparcialitoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MiParcialitoC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MiParcialitoC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T17:49:23.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Program.cs",
+              "RelativeDocumentMoniker": "MiParcialitoC\\Program.cs",
+              "ToolTip": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Program.cs",
+              "RelativeToolTip": "MiParcialitoC\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:40:42.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Views\\Parcial\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiParcialitoC\\Views\\Parcial\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Views\\Parcial\\Index.cshtml",
+              "RelativeToolTip": "MiParcialitoC\\Views\\Parcial\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T17:39:27.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiParcialitoC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiParcialitoC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T17:55:12.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParcialController.cs",
+              "DocumentMoniker": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Controllers\\ParcialController.cs",
+              "RelativeDocumentMoniker": "MiParcialitoC\\Controllers\\ParcialController.cs",
+              "ToolTip": "C:\\Users\\karla\\source\\repos\\MiParcialitoC\\MiParcialitoC\\Controllers\\ParcialController.cs",
+              "RelativeToolTip": "MiParcialitoC\\Controllers\\ParcialController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:35:11.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

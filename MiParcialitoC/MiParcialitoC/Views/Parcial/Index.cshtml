@@ -1,0 +1,143 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "Formulario";
+    ViewData["BodyClass"] = "hide-header-footer";
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body, html {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-image: url('@Url.Content("~/images/puente.jpg")'); 
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat; 
+            background-attachment: fixed; /
+        }
+
+        .hide-header-footer header,
+        .hide-header-footer footer {
+            display: none;
+        }
+
+        .form-container {
+            background-color: white;
+            width: 400px;
+            height:450px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 8px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center; 
+            justify-content: center;
+        }
+
+            .form-container img {
+                width: 100px;
+                margin-bottom: 20px;
+            }
+
+            .form-container h2 {
+                color: #007bff; 
+                font-size: 24px;
+                margin-bottom: 20px;
+            }
+
+            .form-container form {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                width: 100%;
+            }
+
+        input[type="text"], input[type="password"] {
+            width: 90%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: none;
+            border-bottom: 1px solid #ccc; 
+            background-color: transparent;
+            font-size: 14px;
+            color: #333;
+            box-sizing: border-box;
+        }
+
+            input[type="text"]::placeholder, input[type="password"]::placeholder {
+                color: #aaa;
+            }
+
+        button[type="submit"] {
+            width: 80%;
+            padding: 7px;
+            background-color: #ff7f50;
+            color: white;
+            border: none;
+            border-radius: 20px;
+            font-size: 14px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+
+        .options {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+            .options label {
+                font-size: 12px;
+            }
+
+            .options a {
+                color: #007bff;
+                text-decoration: none;
+                font-size: 12px;
+                margin-left: 10px;
+            }
+
+            .options span {
+                color: #ccc; 
+                margin: 0 10px;
+            }
+
+        input[type="text"]:focus, input[type="password"]:focus {
+            outline: none;
+            border-bottom: 1px solid #007bff; /* Línea inferior azul al enfocar */
+        }
+    </style>
+</head>
+<body class="@ViewData["BodyClass"]">
+    <div class="form-container">
+        <img src="@Url.Content("~/images/openenglish.png")" alt="Logo"> 
+        <h2>Welcome Student</h2>
+        <form asp-action="Login">
+            <input type="text" placeholder="Email" name="usuario" required>
+            <input type="password" placeholder="Password" name="contrasena" required>
+            <button type="submit">Log In</button>
+            <div class="options">
+                <label>
+                    <input type="checkbox" name="remember"> Remember Me
+                </label>
+                <span>|</span> 
+                <a href="#">Password Reset</a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
